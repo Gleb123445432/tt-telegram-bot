@@ -1,4 +1,4 @@
-aiogram>=3.13,<4
+aiogram>=3.22,<4
 fastapi>=0.115,<1
 uvicorn[standard]>=0.34,<1
-yt-dlp
+yt-dlp==2026.08.19
